@@ -1,0 +1,44 @@
+# Geotechnical Engineering — Sacramento
+
+> Geotechnical engineering services in Sacramento, United States.
+
+## Services
+- [Anchors](https://sacramento.geotechnical-engineering.xyz/anchors/)
+- [Cbr Road](https://sacramento.geotechnical-engineering.xyz/cbr-road/)
+- [Deep Excavations](https://sacramento.geotechnical-engineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://sacramento.geotechnical-engineering.xyz/excavation-monitoring/)
+- [Excavations](https://sacramento.geotechnical-engineering.xyz/excavations/)
+- [Flexible Pavement](https://sacramento.geotechnical-engineering.xyz/flexible-pavement/)
+- [Foundations](https://sacramento.geotechnical-engineering.xyz/foundations/)
+- [Geophysics](https://sacramento.geotechnical-engineering.xyz/geophysics/)
+- [Grain Size](https://sacramento.geotechnical-engineering.xyz/grain-size/)
+- [Ground Improvement](https://sacramento.geotechnical-engineering.xyz/ground-improvement/)
+- [Grouting](https://sacramento.geotechnical-engineering.xyz/grouting/)
+- [In Situ Permeability](https://sacramento.geotechnical-engineering.xyz/in-situ-permeability/)
+- [Investigation](https://sacramento.geotechnical-engineering.xyz/investigation/)
+- [Lab In Situ](https://sacramento.geotechnical-engineering.xyz/lab-in-situ/)
+- [Laboratory](https://sacramento.geotechnical-engineering.xyz/laboratory/)
+- [Masw](https://sacramento.geotechnical-engineering.xyz/masw/)
+- [Piles](https://sacramento.geotechnical-engineering.xyz/piles/)
+- [Plate Load Test](https://sacramento.geotechnical-engineering.xyz/plate-load-test/)
+- [Retaining Walls](https://sacramento.geotechnical-engineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://sacramento.geotechnical-engineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://sacramento.geotechnical-engineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://sacramento.geotechnical-engineering.xyz/sand-cone-density/)
+- [Seismic](https://sacramento.geotechnical-engineering.xyz/seismic/)
+- [Seismic Microzonation](https://sacramento.geotechnical-engineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://sacramento.geotechnical-engineering.xyz/seismic-refraction/)
+- [Slope Stability](https://sacramento.geotechnical-engineering.xyz/slope-stability/)
+- [Slopes](https://sacramento.geotechnical-engineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://sacramento.geotechnical-engineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://sacramento.geotechnical-engineering.xyz/spt-drilling/)
+- [Stone Columns](https://sacramento.geotechnical-engineering.xyz/stone-columns/)
+- [Test Pits](https://sacramento.geotechnical-engineering.xyz/test-pits/)
+- [Vibrocompaction](https://sacramento.geotechnical-engineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://sacramento.geotechnical-engineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Sacramento, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
